@@ -4,7 +4,7 @@ The `master` branch does not contain any examples. Please see the different bran
 ### Class Workflow
 The workflow in class is comprised of the GitHub Desktop application, the Chrome browser, and the text editor Atom. The first action you should perform in class the moment you arrive is to launch these three applications as follows:
 
-01. Visit our class’ syllabus at [http://roy.vanegas.org/teaching/at-nyu/CSCI-UA.0004-003/](http://roy.vanegas.org/teaching/at-nyu/CSCI-UA.0004-003/).
+01. Visit our class’ syllabus at [`https://cs.nyu.edu/courses/spring19/CSCI-UA.0004-003/`](https://cs.nyu.edu/courses/spring19/CSCI-UA.0004-003/) or [`http://roy.vanegas.org/teaching/at-nyu/CSCI-UA.0004-003/`](http://roy.vanegas.org/teaching/at-nyu/CSCI-UA.0004-003/).
 02. Locate the **Schedule** section, then find the **Topics** sub section.
 03. Click `This week’s repo` for the current week, which will take you to the current week’s GitHub page.
 04. Copy the GitHub repo’s URL.
